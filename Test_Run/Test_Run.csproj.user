@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>"469-ENU-100"
+"470-ENU-100"
+"490-ENU-100"
+"491-ENU-100"
+"494-ENU-100"
+"499-ENU-100" "517-ENU-100 "980-ENU-100" "981-ENU-100" "982-ENU-100"</StartArguments>
+  </PropertyGroup>
+</Project>

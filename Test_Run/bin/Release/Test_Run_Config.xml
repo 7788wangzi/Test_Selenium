@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configure>
+  <!--1-IE;2-Chrome;3-Firefox-->
+  <Browser>3</Browser>
+  <!--Share folder-->
+  <ScreenShot>//LEXBUILD1/AutoScreenShot</ScreenShot>
+</Configure>

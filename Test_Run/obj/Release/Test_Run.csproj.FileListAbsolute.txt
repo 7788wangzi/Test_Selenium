@@ -1,0 +1,12 @@
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\Test_Run.exe.config
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\Test_Run.exe
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\Test_Run.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\Test_Selenium.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\WebDriver.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\WebDriver.Support.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\Test_Selenium.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\WebDriver.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\bin\Release\WebDriver.Support.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\obj\Release\Test_Run.csprojResolveAssemblyReference.cache
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\obj\Release\Test_Run.exe
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Run\obj\Release\Test_Run.pdb

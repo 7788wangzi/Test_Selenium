@@ -1,0 +1,1 @@
+Test_Selenium project is used for exam scoring test, this is automated by Selenium.

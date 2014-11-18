@@ -1,0 +1,13 @@
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\Test_Selenium.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\Test_Selenium.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\WebDriver.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\WebDriver.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\obj\Debug\Test_Selenium.dll
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\obj\Debug\Test_Selenium.pdb
+C:\Users\v-qixue\Documents\Visual Studio 2012\Projects\Test_Selenium\Test_Selenium\obj\Debug\Test_Selenium.csprojResolveAssemblyReference.cache
