@@ -65,7 +65,7 @@ namespace Test_Selenium
         {
             var title = _WebDriver.Title;
             _WebWait.Until((d) => { return d.Title.ToLower().StartsWith("login"); });
-            _WebDriver.FindElement(Se.By.Name("uname")).SendKeys("v-qixue@microsoft.com");
+            _WebDriver.FindElement(Se.By.Name("uname")).SendKeys("qixue@microsoft.com");
             _WebDriver.FindElement(Se.By.Name("pass")).Clear();
             _WebDriver.FindElement(Se.By.Name("pass")).SendKeys("");
             _WebDriver.FindElement(Se.By.Name("btnlogin")).Click();
